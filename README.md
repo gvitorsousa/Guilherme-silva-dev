@@ -1,4 +1,4 @@
-# Guilherme-silva-dev# Olá! Eu sou o Guilherme 👋
+ Olá! Eu sou o Guilherme 👋
 **Estudante de Programação | Foco em Lógica, C e C++ | Entusiasta de Hardware**
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor em formação, apaixonado por entender como os computadores funcionam "por baixo dos panos". Atualmente, estou focado em construir uma base muito sólida em lógica de programação e linguagens estruturadas.
